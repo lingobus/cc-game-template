@@ -1,0 +1,26 @@
+
+{
+  "prompts": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Project name, dash separated words, no space or punctuations"
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "label": "Project description",
+      "default": "A Cocos2d-js project"
+    },
+    "author": {
+      "type": "string",
+      "label": "Author"
+    },
+    "sitemap": {
+      "type": "confirm",
+      "label": "Do you want to use a sitemap?"
+    }
+  },
+  "skipInterpolation": "src/js/lib/*.js",
+  "completeMessage": "{{#inPlace}}To get started:\n\n  npm install\n  npm start{{else}}To get started:\n\n  cd {{destDirName}}\n  npm install\n  npm start{{/inPlace}}"
+}
