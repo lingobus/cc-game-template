@@ -17,5 +17,6 @@
       "label": "Author"
     }
   },
+  "skipInterpolation": "creator.d.ts",
   "completeMessage": "Now you can open this project with Cocos Creator"
 }
