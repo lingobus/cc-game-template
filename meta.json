@@ -15,12 +15,7 @@
     "author": {
       "type": "string",
       "label": "Author"
-    },
-    "sitemap": {
-      "type": "confirm",
-      "label": "Do you want to use a sitemap?"
     }
   },
-  "skipInterpolation": "src/js/lib/*.js",
-  "completeMessage": "{{#inPlace}}To get started:\n\n  npm install\n  npm start{{else}}To get started:\n\n  cd {{destDirName}}\n  npm install\n  npm start{{/inPlace}}"
+  "completeMessage": "Now you can open this project with Cocos Creator"
 }
