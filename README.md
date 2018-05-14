@@ -13,7 +13,6 @@ Conventions
 ====
 
 - Main.fire: entry scene
-
 - animations: all animation files
 - audios: all audio files
   - common: audios shared between scenes
@@ -21,6 +20,5 @@ Conventions
 - scripts: all other script files
 - textures: all textures
   - common: textures shared among scenes
--   Scene#1: all textures used only in scene#1
-
+  - Scene#1: all textures used only in scene#1
 - cc_modules: managed packages
