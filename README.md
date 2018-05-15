@@ -1,4 +1,4 @@
-A Cocos2d-js Game template
+A Cocos2d-js Game Template
 ====
 
 Install
