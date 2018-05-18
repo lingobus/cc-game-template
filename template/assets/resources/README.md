@@ -1,0 +1,1 @@
+[How to dynamically load](http://docs.cocos.com/creator/manual/en/scripting/load-assets.html#how-to-dynamically-load)
