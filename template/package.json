@@ -1,0 +1,20 @@
+{
+  "name": "{{ name }}",
+  "version": "1.0.0",
+  "description": "{{ description }}",
+  "scripts": {
+    "build": "ccb template && ccb build"
+  },
+  "keywords": [
+    "cocos-creator",
+    "game"
+  ],
+  "author": "{{ author }}",
+  "license": "ISC",
+  "devDependencies": {
+    "cc-builder": "1.0.2"
+  },
+  "dependencies": {
+
+  }
+}
