@@ -1,7 +1,7 @@
 [{
   "name": "src",
   "template": "loading-partial",
-  "temps": ["library", "local", "temp", "build-templates", "packages"],
+  "temps": ["library", "local", "temp", "build-templates", "preview-templates", "packages"],
   "platforms": [{
     "buildPath": "release",
     "platform": "web-mobile",
